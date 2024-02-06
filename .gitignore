@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+.vs/
+.vsconfig
+.vscode/
+Library/
+Logs/
+obj/
+UserSettings/
+Temp/
+
+Packages/com.singularitygroup.hotreload/
